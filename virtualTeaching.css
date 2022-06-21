@@ -1,2 +1,21 @@
 
-.
+.preview-description{
+    font-size: 60%;
+}
+
+.container{
+    font-family: Montserrat;
+    text-align: center;
+}
+
+.grade-title{
+    color: #94B4DC;
+}
+
+
+.btn{
+    margin-right: 5%;
+    /* margin-left: 10%; */
+}
+
+
