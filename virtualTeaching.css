@@ -1,21 +1,46 @@
 
 .preview-description{
-    font-size: 60%;
+    font-size: 1vw;
+    margin-top: 5%;
 }
 
+
 .container{
+    padding: 2%;
     font-family: Montserrat;
     text-align: center;
 }
 
 .grade-title{
     color: #94B4DC;
+    font-size: 4vw;
+    font-weight: bold;
 }
+
+.grade-level{
+    text-align: left;
+    font-size: 2vw;
+}
+
+
+
+
+
+.grade{
+    border-left:3px solid #779ECE;
+    padding-left: 10px;
+    padding-top: 3%;
+}
+
 
 
 .btn{
     margin-right: 5%;
-    /* margin-left: 10%; */
+    padding: 1% 10% 1% 10%;
+    border-radius: 10px;
+    color: #ffff;
+    font-weight: bold;
+    font-size: 2vw;
 }
 
 
